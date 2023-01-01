@@ -1,0 +1,48 @@
+{"plants":[
+    {
+        "name": "pilea", 
+        "price": 9.99, 
+        "type":"tropical",
+         "id":"0"
+    },
+    {
+        "name": "zz",
+         "price": 14.99, 
+         "type":"tropical",
+         "id":"1"
+    },
+    {
+        "name": "birdNest", 
+        "price": 14.99, 
+        "type":"fern",
+        "id":"2"
+    },
+    {
+        "name": "haworthia", 
+        "price": 6.99, 
+        "type":"succulent",
+        "id":"3"
+    },
+    {
+        "name": "prayer",
+        "price": 24.99,
+         "type":"tropical",
+         "id":"4"
+    },
+    {
+        "name": "croton",
+        "price": 35, 
+        "type":"tropical",
+        "id":"5"
+    },
+    {
+        "name": "orchid", 
+        "price": 75, 
+        "type":"flower",
+        "id":"6"},
+    {
+        "name": "pearls", 
+        "price": 12.99,
+        "type":"succulent",
+        "id":"7"}
+    ]}
